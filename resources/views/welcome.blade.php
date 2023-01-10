@@ -108,7 +108,7 @@
 				<code class="break-words whitespace-pre-wrap">
 &lt;header class="site-header outer"&gt;
 &lt;div class="inner"&gt;
-{{&gt; "site-nav"}}
+<<&gt; "site-nav">>
 &lt;/div&gt;
 &lt;/header&gt;
 				</code>
